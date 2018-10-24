@@ -1,0 +1,48 @@
+.box{
+    background: #58bcdc;
+    height: 75px;
+    margin-bottom: 10px;
+}
+.boxes{
+    background: #368cea;
+    height: 30px;
+}
+.box-2{
+    background:#4573bd;
+    height: 80px;
+    margin-bottom: 10px;
+}
+.side_box{
+    background:#4383c1;
+    height: 80px;
+   
+}
+.boxs-3{
+    background: #76aae2;
+    height: 50px;
+    margin-bottom: 8px;
+}
+.box-3{
+    background:#3078e8;
+    height: 300px;
+    margin-bottom: 8px;
+}
+.boxs-4{
+    background: #acc8e6;
+    height: 260px;
+    margin-bottom: 5px;
+}
+.side_box-2{
+    height: 300px;
+    background: #70A7DD;
+    margin-bottom: 7px;
+}
+.sidebar_box{
+    height: 245px;
+    background: #7eabdc;
+    margin-top: 5px;
+}
+.box-5{
+    background:#3d7ada;
+    height: 30px;
+}
